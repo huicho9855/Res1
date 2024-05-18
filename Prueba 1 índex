@@ -1,0 +1,39 @@
+Papeleria Goma
+
+Entrega de Productos de Cumpleaños y graduación
+
+Aceptar X Cancelar
+
+Quieres tener una Prueba
+
+Si X No X
+
+Presentar Información:
+
+Public Class (pruebas Cumpleaños, Graduación, 4 de Julio)
+
+Elegir Prueba
+
+arrayList(opc="1,2,3" btn="Cliquear") {
+      System.out.println(Buena Seleción);
+Buena selección
+
+Definir tipo de Graduación
+
+arrayList(Primaria, Secundaria, Universidad)
+
+3
+
+Ciudad y Pais
+
+Acapulco, México
+
+Selección de producto
+
+arrayList(Cartas, Globos, Digagramas)
+
+1 y 2
+
+Gracias por su compra
+
+Todo funciono correctamente
